@@ -1,0 +1,26 @@
+{
+    "name": "my-function",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "engines": {
+        "node": "14.x"
+    },
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "compression": "^1.7.4",
+        "dotenv": "^8.2.0",
+        "dynamodb": "^1.2.1",
+        "ejs": "^3.1.3",
+        "express": "^4.17.1",
+        "isbot-fast": "^1.2.0",
+        "pug": "^3.0.0",
+        "request": "^2.88.2",
+        "serverless-api-compression": "^1.0.1",
+        "serverless-domain-manager": "^4.1.1",
+        "serverless-http": "^2.5.0"
+    }
+}
